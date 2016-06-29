@@ -11,6 +11,7 @@ class inventory
   string itemno, name ;
   int aqty, rol;
   static int tot;
+  int lol;
   float cost, dp, tp, pp;
 
 
